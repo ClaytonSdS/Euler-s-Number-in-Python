@@ -13,7 +13,7 @@ $$
 
 
 ### Conclusions
-From the [results](https://colab.research.google.com/github/ClaytonSdS/Euler-s-Number-in-Python/blob/main/EulerNumber.ipynb), the determined value of e (in Python) is between $P(16) < e_{\text{python}} < P(17)$, with a maximum error of ≤ $4.25 \times 10^{-16}$.
+From the [results](https://colab.research.google.com/github/ClaytonSdS/Euler-s-Number-in-Python/blob/main/EulerNumber.ipynb), the determined value of e (in Python) is between $P(16) < e_{\text{python}} < P(17)$, with a maximum error ≤ $4.25 \times 10^{-16}$.
 
 ___________________________
 #### Follow for more
